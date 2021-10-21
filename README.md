@@ -2,6 +2,8 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/vivimouret29/mast1_ai)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vivimouret29/mast1_ai)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vivimouret29/mast1_ai)
+![GitHub last commit](https://img.shields.io/github/last-commit/vivimouret29/mast1_ai)
 
 <!-- 👥 one days it'll be public -->
 
