@@ -9,7 +9,7 @@
 ---
 Ce dossier regroupe les cours du tronc communs suivis du master :
 
-- [Apprentissage par renforcement](./reinforcement_learning)
+- [Apprentissage par Renforcement](./reinforcement_learning)
 
   
 ## [Electives Master 1ère Année](./electives_fy)
@@ -23,7 +23,8 @@ Ce dossier regroupe les électives de la première année de master :
 ---
 Ce dossier va contenir les projets initialisés durant les journées Lab Ydays : 
 
-- [Real estate price prediction](./ydays/real_estate/) *(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
+- [Real Estate Price Prediction](./ydays/real_estate/) *(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
+- [Medical Cost Personal Datasets](./ydays/medical_cost_personal/) *(https://www.kaggle.com/mirichoi0218/insurance)*
 
 
 Majoritairement, ces projets seront issus de Kaggle.
