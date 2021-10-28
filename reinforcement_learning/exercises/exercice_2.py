@@ -3,8 +3,8 @@
 # A chaque stepn vous devez :
 #      - générez une action aléatoire et la proposer à gym
 #      - visualiser l'environnement
-print("TODO : importer gym, créer et initialiser l'environnement")
 import gym
+print("TODO : importer gym, créer et initialiser l'environnement")
 
 env = gym.make('CartPole-v0')
 env.reset()
@@ -15,7 +15,8 @@ for step in range(200):
     # env.step est la methode principale pour passer au prochain step ET soumettre une action
     env.render()
     done = env.step(env.action_space.sample())
-    if done: break
+    if done:
+        break
 
 print("TODO : pensez à fermer l'envionnement via sa méthode close")
 env.close()
