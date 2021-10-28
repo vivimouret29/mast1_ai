@@ -1,0 +1,8 @@
+name: reif_learn
+channels:
+  - default
+dependancies: 
+  - python=3.8
+  - pip=21.0.1
+  - pip:
+    - numpy

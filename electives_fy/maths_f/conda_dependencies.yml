@@ -1,0 +1,14 @@
+name: mfml
+channels: 
+  - default
+dependancies: 
+  - python=3.8
+  - pip=21.0.1
+  - pip:
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - xgboost
+    - catboost
