@@ -10,7 +10,11 @@
 Ce dossier regroupe les cours du tronc communs suivis du master :
 
 - [Apprentissage par Renforcement](./reinforcement_learning)
-
+  - [Projet Fil Rouge](./reinforcement_learning/fil-rouge)
+  - [Numpy](./reinforcement_learning/numpy-tp.ipynb)
+  - [Gym](./reinforcement_learning/tp_gym)
+  - [Q Learning](./reinforcement_learning/tp_qlearning)
+  - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
   
 ## [Electives Master 1ère Année](./electives_fy)
 ---
