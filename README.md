@@ -1,35 +1,35 @@
-# **MASTER INTELLIGENCE ARTIFICIELLE**
+# **MASTER ARTIFICIAL INTELLIGENCE**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/vivimouret29/mast1_ai)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vivimouret29/mast1_ai)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vivimouret29/mast1_ai)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivimouret29/mast1_ai)
 
-## Cours Tronc Communs
+## Common Core Courses
 ---
-Ce dossier regroupe les cours du tronc communs suivis du master :
+This folder contains core courses followed by the master:
 
-- [Apprentissage par Renforcement](./reinforcement_learning)
-  - [Projet Fil Rouge](./reinforcement_learning/fil-rouge)
-  - [Numpy](./reinforcement_learning/numpy-tp.ipynb)
+- [Reinforcement Learning](./reinforcement_learning)
+  - [Red Thread Project](./reinforcement_learning/fil-rouge)
+  - [Numpy](./reinforcement_learning/tp_numpy)
   - [Gym](./reinforcement_learning/tp_gym)
   - [Q Learning](./reinforcement_learning/tp_qlearning)
   - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
   
-## [Electives Master 1ère Année](./electives_fy)
+## [Electives Master 1st Year](./electives_fy)
 ---
-Ce dossier regroupe les électives de la première année de master :
+This folder contains electives of the first year of the master:
 
-- [Maths & Fondamentaux du Machine Learning](./electives_fy/maths_f)
+- [Maths & Fundamentals of Machine Learning](./electives_fy/maths_f)
 
   
-## [Ydays](./ydays) Laboratoire
+## [Ydays](./ydays) Laboratory
 ---
-Ce dossier va contenir les projets initialisés durant les journées Lab Ydays : 
+This folder will contain projects initiated during the Lab Ydays: 
 
 - [Real Estate Price Prediction](./ydays/real_estate/) *(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
 - [Medical Cost Personal Datasets](./ydays/medical_cost_personal/) *(https://www.kaggle.com/mirichoi0218/insurance)*
 
 
-Majoritairement, ces projets seront issus de Kaggle.
-Le dépôt pourra contenir le projet [bot_discord](https://github.com/vivimouret29/bot_discord).
+Most of these projects will be from Kaggle.
+The repository may contain the project [bot_discord](https://github.com/vivimouret29/bot_discord).
