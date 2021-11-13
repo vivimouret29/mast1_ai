@@ -38,8 +38,8 @@ This folder contains electives of the first year of the master:
 
 This folder will contain projects initiated during the Lab Ydays:
 
-- [Real Estate Price Prediction](./ydays/real_estate/)*(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
-- [Medical Cost Personal Datasets](./ydays/medical_cost_personal/)*(https://www.kaggle.com/mirichoi0218/insurance)*
+- [Real Estate Price Prediction](./ydays/real_estate/)  *(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
+- [Medical Cost Personal Datasets](./ydays/medical_cost_personal/)  *(https://www.kaggle.com/mirichoi0218/insurance)*
 
 Most of these projects will be from Kaggle.
 The repository may contain the project [bot_discord](https://github.com/vivimouret29/bot_discord).
