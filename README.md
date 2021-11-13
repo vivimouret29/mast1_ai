@@ -19,7 +19,7 @@ This folder contains core courses followed by the master:
   - [Q Learning](./reinforcement_learning/tp_qlearning)
   - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
   - [TensorFlow](./reinforcement_learning/tp_tensorflow)
-  - [Deep Learning]()
+  - [Deep Learning](./reinforcement_learning/tp_deeplearning)
 
 ## [Electives Master 1st Year](./electives_fy)
 
