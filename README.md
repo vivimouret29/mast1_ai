@@ -28,6 +28,9 @@ This folder contains core courses followed by the master:
 This folder contains electives of the first year of the master:
 
 - [Maths &amp; Fundamentals of Machine Learning](./electives_fy/maths_f)
+  - [Athlete]()
+  - [House Prediction](./electives_fy/maths_f/house_predict)
+  - [Titanic]()
 
 ## [Ydays](./ydays) Laboratory
 
