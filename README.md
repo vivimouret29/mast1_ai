@@ -12,7 +12,7 @@
 This folder contains core courses followed by the master:
 
 - **[Reinforcement Learning](./reinforcement_learning)**
-  - [Red Thread Project](./reinforcement_learning/fil-rouge)
+  - [Fil Rouge Project](./reinforcement_learning/fil-rouge)
   - [Numpy](./reinforcement_learning/tp_numpy)
   - [Gym](./reinforcement_learning/tp_gym)
   - [Graph](./reinforcement_learning/tp_graph)
@@ -20,6 +20,7 @@ This folder contains core courses followed by the master:
   - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
   - [TensorFlow](./reinforcement_learning/tp_tensorflow)
   - [Deep Learning](./reinforcement_learning/tp_deeplearning)
+  - [MinMax](./reinforcement_learning/tp_minmax)
 
 ## [Electives Master 1st Year](./electives_fy)
 
