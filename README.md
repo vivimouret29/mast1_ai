@@ -5,13 +5,12 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vivimouret29/mast1_ai)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivimouret29/mast1_ai)
 
-## Common Core Courses
-
 ---
+## Common Core Courses
 
 This folder contains core courses followed by the master:
 
-- **[Reinforcement Learning](./reinforcement_learning)**
+### **[Reinforcement Learning](./reinforcement_learning)**
   - [Fil Rouge Project](./reinforcement_learning/fil-rouge)
   - [Numpy](./reinforcement_learning/tp_numpy)
   - [Gym](./reinforcement_learning/tp_gym)
@@ -22,21 +21,23 @@ This folder contains core courses followed by the master:
   - [Deep Learning](./reinforcement_learning/tp_deeplearning)
   - [MinMax](./reinforcement_learning/tp_minmax)
 
-- **[Deep Learning](./deep_learning)**
+### **[Deep Learning](./deep_learning)**
+  - [Fil Rouge Project](./deep_learning/fil-rouge)
+  - [Keras](./deep_learning/keras)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
 
-## [Electives Master 1st Year](./electives_fy)
 ---
+## [Electives Master 1st Year](./electives_fy)
 
 This folder contains electives of the first year of the master:
 
-- [Maths &amp; Fundamentals of Machine Learning](./electives_fy/maths_f)
+### [Maths &amp; Fundamentals of Machine Learning](./electives_fy/maths_f)
   - [Athlete](./electives_fy/maths_f/athlete)
   - [House Prediction](./electives_fy/maths_f/house_predict)
   - [Titanic](./electives_fy/maths_f/titanic)
 
-## [Ydays Laboratory](./ydays)
 ---
+## [Ydays Laboratory](./ydays)
 
 This folder will contain projects initiated during the Lab Ydays:
 
