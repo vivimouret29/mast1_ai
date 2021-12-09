@@ -22,8 +22,10 @@ This folder contains core courses followed by the master:
   - [Deep Learning](./reinforcement_learning/tp_deeplearning)
   - [MinMax](./reinforcement_learning/tp_minmax)
 
-## [Electives Master 1st Year](./electives_fy)
+- **[Deep Learning](./deep_learning)**
+  - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
 
+## [Electives Master 1st Year](./electives_fy)
 ---
 
 This folder contains electives of the first year of the master:
@@ -33,8 +35,7 @@ This folder contains electives of the first year of the master:
   - [House Prediction](./electives_fy/maths_f/house_predict)
   - [Titanic](./electives_fy/maths_f/titanic)
 
-## [Ydays](./ydays) Laboratory
-
+## [Ydays Laboratory](./ydays)
 ---
 
 This folder will contain projects initiated during the Lab Ydays:
