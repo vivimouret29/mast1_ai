@@ -1,5 +1,7 @@
 # rl-flatland
 
+[GIF](./reinforcement_learning/fil-rouge/rl-flatland/gif/flatland_agent_19.gif)
+
 ## Setup  
   
 Install Python 3.6 and flatland-rl dependencies:  
