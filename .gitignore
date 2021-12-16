@@ -1,2 +1,6 @@
+# Ignore those files
 .vscode/
 .github/
+
+# Never forget .gitkeep
+!.gitkeep
