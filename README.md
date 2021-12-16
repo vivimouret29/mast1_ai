@@ -23,15 +23,18 @@ This folder contains core courses followed by the master :
   - [Sarsa](./reinforcement_learning/tp_sarsa)
   - [TensorFlow](./reinforcement_learning/tp_tensorflow)
 
-Full access to the slides studied during the course is available [here](./reinforcement_learning/slides).
+Full access to the slides [here](./reinforcement_learning/slides).
 
 ### **[Deep Learning](./deep_learning)**
 
   - [Fil Rouge Project](./deep_learning/fil-rouge)
+  - [Classification CNN](./deep_learning/cnn_classification)
   - [Keras](./deep_learning/keras)
   - [PyTorch](./deep_learning/pytorch)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
   - [Streaming Cars](./deep_learning/streaming_cars)
+  - 
+Full access to the slides [here](./deep_learning/slides).
 
 ---
 ## [Electives Master 1st Year](./electives_fy)
