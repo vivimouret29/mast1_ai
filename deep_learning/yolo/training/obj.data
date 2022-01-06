@@ -1,0 +1,6 @@
+classes = 5
+train  = /darknet/data/train.txt
+valid = /darknet/data/val.txt
+names = data/yolo-obj.names
+backup = backup
+eval = obj
