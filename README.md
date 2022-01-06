@@ -33,7 +33,8 @@ Full access to the slides [here](./reinforcement_learning/slides).
   - [PyTorch](./deep_learning/pytorch)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
   - [Streaming Cars](./deep_learning/streaming_cars)
-  - 
+  - [Yolo](./deep_learning/yolo)
+
 Full access to the slides [here](./deep_learning/slides).
 
 ---
@@ -57,3 +58,4 @@ This folder will contain projects initiated during the Lab Ydays :
 
 Most of these projects will be from Kaggle.
 The repository may contain the project [bot_discord](https://github.com/vivimouret29/bot_discord).
+  
