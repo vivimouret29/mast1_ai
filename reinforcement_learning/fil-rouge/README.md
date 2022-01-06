@@ -1,6 +1,6 @@
 # rl-flatland
 
-![GIF](./reinforcement_learning/fil-rouge/rl-flatland/gif/flatland_agent_19.gif)
+![gif](https://github.com/vivimouret29/mast1_ai/blob/main/reinforcement_learning/fil-rouge/rl-flatland/gif/flatland_agent_19.gif)
 
 ## Setup  
   
