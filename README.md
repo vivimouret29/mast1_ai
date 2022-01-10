@@ -5,7 +5,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vivimouret29/mast1_ai)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivimouret29/mast1_ai)
 
----
+#
 ## Common Core Courses
 
 This folder contains core courses followed by the master :
@@ -30,6 +30,7 @@ Full access to the slides [here](./reinforcement_learning/slides).
   - [Fil Rouge Project](./deep_learning/fil-rouge)
   - [Classification CNN](./deep_learning/cnn_classification)
   - [Keras](./deep_learning/keras)
+  - [LSTM](./deep_learning/lstm)
   - [PyTorch](./deep_learning/pytorch)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
   - [Streaming Cars](./deep_learning/streaming_cars)
@@ -37,7 +38,7 @@ Full access to the slides [here](./reinforcement_learning/slides).
 
 Full access to the slides [here](./deep_learning/slides).
 
----
+#
 ## [Electives Master 1st Year](./electives_fy)
 
 This folder contains electives of the first year of the master :
@@ -48,7 +49,7 @@ This folder contains electives of the first year of the master :
   - [House Prediction](./electives_fy/maths_f/house_predict)
   - [Titanic](./electives_fy/maths_f/titanic)
 
----
+#
 ## [Ydays Laboratory](./ydays)
 
 This folder will contain projects initiated during the Lab Ydays :
@@ -57,5 +58,4 @@ This folder will contain projects initiated during the Lab Ydays :
 - [Real Estate Price Prediction](./ydays/real_estate)  *(https://www.kaggle.com/quantbruce/real-estate-price-prediction)*
 
 Most of these projects will be from Kaggle.
-The repository may contain the project [bot_discord](https://github.com/vivimouret29/bot_discord).
   
