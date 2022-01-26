@@ -28,12 +28,17 @@ Full access to the slides [here](./reinforcement_learning/slides).
 ### **[Deep Learning](./deep_learning)**
 
   - [Fil Rouge Project](./deep_learning/fil-rouge)
+  - [Anomaly Detection](./deep_learning/anomaly_detection)
   - [Classification CNN](./deep_learning/cnn_classification)
+  - [Denoysing](./deep_learning/denoysing)
+  - [Feelings](./deep_learning/feelings)
   - [Keras](./deep_learning/keras)
+  - [Lime](./deep_learning/lime)
   - [LSTM](./deep_learning/lstm)
   - [PyTorch](./deep_learning/pytorch)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
   - [Streaming Cars](./deep_learning/streaming_cars)
+  - [Transfer Style](./deep_learning/transfer_style)
   - [Yolo](./deep_learning/yolo)
 
 Full access to the slides [here](./deep_learning/slides).
