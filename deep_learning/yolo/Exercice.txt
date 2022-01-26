@@ -1,16 +1,3 @@
-Vous allez au travers de ce tp, manipuler, entrainez et utilisez un modèle yolov4.
-
-1 Téléchargez des données ici : https://github.com/thsant/wgisd puis commencez à explorer le dataset
-2 Téléchargez une version de yolov4 puis lancez un entrainement à l'aide du README_training fourni avec ce tp, 
-à partir des données téléchargées à l'étape une. 
-Entrainez deux versions, une en modifiant toutes les couches, l'autre en ne modifiant que les dernières couches. 
-Attention vous devez utiliser le jeu de validation (vos règles d'early stopping se feront à partir du score de
-validation)
-3 Lancez plusieurs expériences en modifiant les paramètres d'entrainement et regardez quelles modifications 
-apportent un intérêt.
-5 Prenez votre meilleur modèle et évaluez votre score sur le jeu de test.
-6 Prenez une image sur google et lancez l'inférence de votre modèle en utisant le script README_inference.
-7 Convertissez le modèle darknet en un script python qui prend en entrée une image et qui retourne l'image 
-avec les prédictions.
-Pour faire la conversion darknet => python vous pouvez suivre la procédure inscrite dans le fichier 
-README_convert.md
+version https://git-lfs.github.com/spec/v1
+oid sha256:742dea7593533c4b6f5e8d4ac15bc0ccb63a842518f72150641cafe1c28d28ba
+size 1189
