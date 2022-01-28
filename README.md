@@ -3,27 +3,16 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/vivimouret29/mast1_ai)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vivimouret29/mast1_ai)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vivimouret29/mast1_ai)
+![Lines of code](https://img.shields.io/tokei/lines/github/vivimouret29/mast1_ai)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivimouret29/mast1_ai)
+![Conda](https://img.shields.io/conda/pn/conda-forge/python)
+<!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/vivimouret29/mast1_ai) -->
 
 #
 ## Common Core Courses
 
 This folder contains core courses followed by the master :
-
-### **[Reinforcement Learning](./reinforcement_learning)**
-
-  - [Fil Rouge Project](./reinforcement_learning/fil-rouge)
-  - [Deep Learning](./reinforcement_learning/tp_deeplearning)
-  - [Graph](./reinforcement_learning/tp_graph)
-  - [Gym](./reinforcement_learning/tp_gym)
-  - [MinMax](./reinforcement_learning/tp_minmax)
-  - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
-  - [Numpy](./reinforcement_learning/tp_numpy)
-  - [Q Learning](./reinforcement_learning/tp_qlearning)
-  - [Sarsa](./reinforcement_learning/tp_sarsa)
-  - [TensorFlow](./reinforcement_learning/tp_tensorflow)
-
-Full access to the slides [here](./reinforcement_learning/slides).
 
 ### **[Deep Learning](./deep_learning)**
 
@@ -42,7 +31,21 @@ Full access to the slides [here](./reinforcement_learning/slides).
   - [Transfer Style](./deep_learning/transfer_style)
   - [Yolo](./deep_learning/yolo)
 
-Full access to the slides [here](./deep_learning/slides).
+Full access to the slides [here](./deep_learning/slides).  
+### **[Reinforcement Learning](./reinforcement_learning)**
+
+  - [Fil Rouge Project](./reinforcement_learning/fil-rouge)
+  - [Deep Learning](./reinforcement_learning/tp_deeplearning)
+  - [Graph](./reinforcement_learning/tp_graph)
+  - [Gym](./reinforcement_learning/tp_gym)
+  - [MinMax](./reinforcement_learning/tp_minmax)
+  - [MonteCarlo](./reinforcement_learning/tp_montecarlo)
+  - [Numpy](./reinforcement_learning/tp_numpy)
+  - [Q Learning](./reinforcement_learning/tp_qlearning)
+  - [Sarsa](./reinforcement_learning/tp_sarsa)
+  - [TensorFlow](./reinforcement_learning/tp_tensorflow)
+
+Full access to the slides [here](./reinforcement_learning/slides).
 
 #
 ## [Electives Master 1st Year](./electives_fy)
