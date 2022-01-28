@@ -37,6 +37,7 @@ Full access to the slides [here](./reinforcement_learning/slides).
   - [LSTM](./deep_learning/lstm)
   - [PyTorch](./deep_learning/pytorch)
   - [Scikit-Learn](./deep_learning/scikit-learn-mlp)
+  - [Segmentations](./deep_learning/segmentations)
   - [Streaming Cars](./deep_learning/streaming_cars)
   - [Transfer Style](./deep_learning/transfer_style)
   - [Yolo](./deep_learning/yolo)

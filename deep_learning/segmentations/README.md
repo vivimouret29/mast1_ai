@@ -1,12 +1,12 @@
 # TP SEGMENTATION
 
-## Jeu de données
+## Data set
 
-Composé de différentes photos de chats et de chiens.
+Composed of different pictures of cats and dogs.
 
-## Utilisation de différents modèles
+## Use of different models
 
-Pour commencer, différents model ont été utilisés :
+To start with, different models were used:
 ```bash
 Mobile_net_v2 185/185 [==============================] - 38s 207ms/step - loss: 0.0000e+00 - accuracy: 0.0517 - val_loss: 0.0000e+00 - val_accuracy: 0.0507
 
@@ -15,29 +15,29 @@ Inception_v3 185/185 [==============================] - 40s 217ms/step - loss: 0
 Resnet_50 185/185 [==============================] - 40s 214ms/step - loss: 0.0000e+00 - accuracy: 0.0451 - val_loss: 0.0000e+00 - val_accuracy: 0.0533
 ```
 
-On peut voir que les scores des model n'ont pas bougé du tout, même après la première epoch. 
-Les modèles avec la base Inception_v3 semblent être obtenir un meilleur rendu rapport aux autres model.
-Je vais donc continuer avec Inception_v3
+We can see that the scores of the models have not moved at all, even after the first epoch. 
+The models with the Inception_v3 base seem to get a better rendering than the other models.
+So I will continue with Inception_v3
 
-## Réalisation des XP
+## Making the XPs
 
-J'ai réalisé ces images depuis le notebook `segmentation_colab`:
+I made these pictures from the `segmentation_colab` notebook:
 
-- Description et paramètres d'une photo:  
+- Description and parameters of a picture:  
 ![catdes](./readme/catdes.PNG)
 
 
-- Suivi de la segmentation sur une photo modifiée:  
+- Segmentation tracking on a modified photo:  
 ![catocat](./readme/catocat.PNG)
 
-## Résultats
+## Results
 
-Ces deux prochains résultats sont issues de deux notebook différents :
+These next two results are from two different notebooks:
 
-- Exemple de résultat sous Inception_v4
+- Example of a result under Inception_v4
 ![inception](./readme/inception.PNG)
 
-- Et sous ResNet50
+- And under ResNet50
 ```bash
 INFO:tensorflow:Calling model_fn.
 ERROR:tensorflow:Operation of type Placeholder (input_1) is not supported on the TPU. Execution will fail if this op is used in the graph. 
@@ -77,4 +77,4 @@ INFO:tensorflow:Saving 'checkpoint_path' summary for global step 460: gs://gs_co
 INFO:tensorflow:evaluation_loop marked as finished
 ```
 
-Globalement, ResNet a obtenu de meilleurs résultats par rapport à Inception_v4, malgrés mes tests du début.
+Overall, ResNet performed better than Inception_v4, despite my early testing.
