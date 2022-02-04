@@ -45,7 +45,6 @@
 <br>
 <br>
 
-#
 <h2 align="center">
   <strong>
     <a href="https://github.com/vivimouret29/mast1_ai">
@@ -100,7 +99,6 @@ Full access to the slides [here](./reinforcement_learning/slides).
 <br>
 <br>
 
-#
 <h2 align="center">
   <strong>
     <a href="https://github.com/vivimouret29/mast1_ai/electives">
@@ -130,7 +128,6 @@ Full access to the slides [here](./electives/blockchain/slides).
 
 <br>
 
-#
 <h2 align="center" href="https://github.com/vivimouret29/mast1_ai/ydays">
   <strong>
     Ydays Laboratory
