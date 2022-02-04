@@ -101,7 +101,7 @@ Full access to the slides [here](./reinforcement_learning/slides).
 
 <h2 align="center">
   <strong>
-    <a href="https://github.com/vivimouret29/mast1_ai/electives">
+    <a href="https://github.com/vivimouret29/mast1_ai/tree/main/electives">
       Electives Master 1st Year
     </a>
   </strong>
@@ -128,7 +128,7 @@ Full access to the slides [here](./electives/blockchain/slides).
 
 <br>
 
-<h2 align="center" href="https://github.com/vivimouret29/mast1_ai/ydays">
+<h2 align="center" href="https://github.com/vivimouret29/mast1_ai/tree/main/ydays">
   <strong>
     Ydays Laboratory
   </strong>
