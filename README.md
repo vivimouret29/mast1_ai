@@ -128,9 +128,11 @@ Full access to the slides [here](./electives/blockchain/slides).
 
 <br>
 
-<h2 align="center" href="https://github.com/vivimouret29/mast1_ai/tree/main/ydays">
+<h2 align="center">
   <strong>
-    Ydays Laboratory
+    <a href="https://github.com/vivimouret29/mast1_ai/tree/main/ydays">
+      Ydays Laboratory
+    </a>
   </strong>
 </h2>
 <br>
